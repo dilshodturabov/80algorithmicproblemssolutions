@@ -1,0 +1,12 @@
+{
+  "name": "80ta-imtihon-savollari-javobi-in-ts",
+  "version": "1.0.0",
+  "description": "solutions ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc app.ts &&node app.js"
+  },
+  "author": "dilshod turabov",
+  "license": "ISC"
+}
